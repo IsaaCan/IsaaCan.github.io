@@ -4,9 +4,29 @@
 <number>1</number>
 <url>http://isaacan.github.io/songs/song1.mp4</url>
 </song>
+
+<song>
+<name>Sweet hour of prayer</name>
+<number>5</number>
+<url>http://isaacan.github.io/songs/song5.3gpp</url>
+</song>
+
 <song>
 <name>Child of the King</name>
 <number>335</number>
 <url>http://isaacan.github.io/songs/song335.3gpp</url>
 </song>
+
+<song>
+<name>Hand in hand</name>
+<number>357</number>
+<url>http://isaacan.github.io/songs/song357.3gpp</url>
+</song>
+
+<song>
+<name>No tears in heaven</name>
+<number>581</number>
+<url>http://isaacan.github.io/songs/song581.3gpp</url>
+</song>
+
 </songs>
