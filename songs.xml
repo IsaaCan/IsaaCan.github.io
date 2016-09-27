@@ -42,6 +42,18 @@
 </song>
 
 <song>
+<name>Higher ground</name>
+<number>30</number>
+<url>http://isaacan.github.io/songs/song30.ogg</url>
+</song>
+
+<song>
+<name>Standing on the promises</name>
+<number>31</number>
+<url>http://isaacan.github.io/songs/song31.ogg</url>
+</song>
+
+<song>
 <name>Rock of ages</name>
 <number>33</number>
 <url>http://isaacan.github.io/songs/song33.3gpp</url>
@@ -62,13 +74,25 @@
 <song>
 <name>Sweet by and by</name>
 <number>53</number>
-<url>http://isaacan.github.io/songs/song53.3gpp</url>
+<url>http://isaacan.github.io/songs/song53.ogg</url>
 </song>
 
 <song>
 <name>The battle hymn of republic</name>
 <number>57</number>
 <url>http://isaacan.github.io/songs/song57.3gpp</url>
+</song>
+
+<song>
+<name>The lily of the valley</name>
+<number>83</number>
+<url>http://isaacan.github.io/songs/song83.ogg</url>
+</song>
+
+<song>
+<name>When the roll is called up yonder</name>
+<number>87</number>
+<url>http://isaacan.github.io/songs/song87.ogg</url>
 </song>
 
 <song>
@@ -93,6 +117,12 @@
 <name>The great physician now is near</name>
 <number>201</number>
 <url>http://isaacan.github.io/songs/song201.3gpp</url>
+</song>
+
+<song>
+<name>Pass me not</name>
+<number>206</number>
+<url>http://isaacan.github.io/songs/song206.ogg</url>
 </song>
 
 <song>
